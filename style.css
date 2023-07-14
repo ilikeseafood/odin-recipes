@@ -1,0 +1,15 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 40px;
+    color: #704214;
+    text-align: center;
+}
+
+a {
+    font-size: medium;
+    color: rgb(145, 85, 6);
+}
